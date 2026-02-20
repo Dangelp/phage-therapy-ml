@@ -1,0 +1,12 @@
+# Ignorar genomas crudos pesados
+data/raw/*.fna
+data/raw/*.gbk
+
+# Entornos virtuales
+venv/
+env/
+.conda/
+
+# Archivos de sistema
+__pycache__/
+.DS_Store
